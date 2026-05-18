@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "node static server",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/tmp/mituwa-server.js"],
+      "port": 3000
+    }
+  ]
+}
